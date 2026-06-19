@@ -62,7 +62,7 @@ python -V
 ## Step 1 — Download the code
 
 ```bash
-
+https://github.com/veereshlakkannavar/gesture-control-ai/archive/refs/heads/main.zip
 ```
 
 ---
